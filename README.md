@@ -1,4 +1,4 @@
-# Mapping Earthquakes
+# Cryptocurrencies
 
 ## Overview of Project
 
